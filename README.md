@@ -17,6 +17,10 @@ This repository contains my notes for the Machine Learning Specialization on Cou
 
 ## Course 3: Unsupervised Learning, Recommenders, Reinforcement Learning
 - **Link**: [https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
+
+## Certificate
+![Machine Learning Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/Y6GAR3LTZ4ZT
+
 ---
 
 A big thank you to Professor Andrew Ng for structuring and tailoring this course, providing a comprehensive learning journey in the field of Machine Learning.
