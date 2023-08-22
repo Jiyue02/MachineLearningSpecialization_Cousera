@@ -19,7 +19,7 @@ This repository contains my notes for the Machine Learning Specialization on Cou
 - **Link**: [https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction](https://www.coursera.org/learn/unsupervised-learning-recommenders-reinforcement-learning?specialization=machine-learning-introduction)
 
 ## Certificate
-(https://www.coursera.org/account/accomplishments/specialization/Y6GAR3LTZ4ZT
+https://www.coursera.org/account/accomplishments/specialization/Y6GAR3LTZ4ZT
 
 ---
 
