@@ -1,6 +1,6 @@
 # MachineLearningSpecialization_Cousera
 
-This repository contains my notes for the Machine Learning Specialization on Coursera, instructed by Professor Andrew Ng.
+This repository contains my notes for the Machine Learning Specialization on Coursera, instructed by Professor Andrew Ng. Each course folder contains a PDF file, which is my summary of the course using Xmind.
 
 ## Table of Contents
 
